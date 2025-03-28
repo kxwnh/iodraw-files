@@ -88,8 +88,14 @@
         <mxCell id="DeoXBpSrbxVylzwap8dz-58" value="&lt;div&gt;待配准&lt;span style=&quot;background-color: initial;&quot;&gt;点云&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="630" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-59" target="DeoXBpSrbxVylzwap8dz-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-59" value="点云初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="630" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-60" target="DeoXBpSrbxVylzwap8dz-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-60" value="计算最近点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="630" width="106" height="50" as="geometry" />
