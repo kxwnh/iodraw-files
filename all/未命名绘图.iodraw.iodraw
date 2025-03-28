@@ -104,9 +104,15 @@
         <mxCell id="DeoXBpSrbxVylzwap8dz-42" value="采用聚类策略，得到正确的候选位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="695" y="328.75" width="110" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="DeoXBpSrbxVylzwap8dz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-46">
+        <mxCell id="DeoXBpSrbxVylzwap8dz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-46" target="DeoXBpSrbxVylzwap8dz-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="883.5000000000005" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="884" y="270" />
+              <mxPoint x="676" y="270" />
+              <mxPoint x="676" y="320" />
+              <mxPoint x="469" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-46" value="能否为ICP&lt;div&gt;算&lt;span style=&quot;background-color: initial;&quot;&gt;法&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;提供良好的初&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;始&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;变换?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
