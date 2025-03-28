@@ -115,8 +115,16 @@
         <mxCell id="DeoXBpSrbxVylzwap8dz-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-63" target="DeoXBpSrbxVylzwap8dz-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-63" target="DeoXBpSrbxVylzwap8dz-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-72" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DeoXBpSrbxVylzwap8dz-71">
+          <mxGeometry x="0.4296" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-63" value="误差收敛" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="715" width="80" height="80" as="geometry" />
+          <mxGeometry x="293" y="715" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-64" value="配准完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="730" width="110" height="50" as="geometry" />
