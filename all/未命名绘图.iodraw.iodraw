@@ -100,11 +100,20 @@
         <mxCell id="DeoXBpSrbxVylzwap8dz-60" value="计算最近点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="630" width="106" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-61" target="DeoXBpSrbxVylzwap8dz-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-61" value="计算配准参数和误差" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="630" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-62" target="DeoXBpSrbxVylzwap8dz-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-62" value="点云坐标变换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="730" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-63" target="DeoXBpSrbxVylzwap8dz-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-63" value="误差收敛" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="715" width="80" height="80" as="geometry" />
