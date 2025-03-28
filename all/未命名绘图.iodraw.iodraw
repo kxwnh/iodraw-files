@@ -86,10 +86,10 @@
           <mxGeometry x="10" y="630" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-59" value="点云初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="630" width="120" height="50" as="geometry" />
+          <mxGeometry x="140" y="630" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-60" value="计算最近点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="630" width="120" height="50" as="geometry" />
+          <mxGeometry x="294" y="630" width="106" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
