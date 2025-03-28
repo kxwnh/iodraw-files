@@ -96,7 +96,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-40" value="根据投票策略，选取票数较多的点对，组成候选位姿集合C" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="326.25" width="120" height="55" as="geometry" />
+          <mxGeometry x="550" y="327.5" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-42" value="采用聚类策略，得到正确的候选位姿" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="695" y="328.75" width="110" height="52.5" as="geometry" />
