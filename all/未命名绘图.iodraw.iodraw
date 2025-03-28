@@ -85,6 +85,9 @@
         <mxCell id="DeoXBpSrbxVylzwap8dz-58" value="&lt;div&gt;待配准&lt;span style=&quot;background-color: initial;&quot;&gt;点云&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="630" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-59" value="点云初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
