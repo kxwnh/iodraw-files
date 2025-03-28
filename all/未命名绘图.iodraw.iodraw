@@ -7,7 +7,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="PPF算法粗配准" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;direction=west;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="PPF算法粗配准" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="是" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
@@ -26,25 +26,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="能否为ICP&lt;div&gt;算&lt;span style=&quot;background-color: initial;&quot;&gt;法&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;提供良好的初&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;始&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;变换?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;direction=west;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="能否为ICP&lt;div&gt;算&lt;span style=&quot;background-color: initial;&quot;&gt;法&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;提供良好的初&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;始&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;变换?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="290" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-0" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeoXBpSrbxVylzwap8dz-0" value="&lt;p&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;输入健侧骨镜像&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;模&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;型&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;和断&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;骨&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;模型点云&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DeoXBpSrbxVylzwap8dz-0" value="&lt;p&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;输入健侧骨镜像&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;模&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;型&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;和断&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;骨&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;模型点云&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="273.75" y="110" width="132.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-4" target="DeoXBpSrbxVylzwap8dz-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeoXBpSrbxVylzwap8dz-4" value="ICP算法精配准" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DeoXBpSrbxVylzwap8dz-4" value="ICP算法精配准" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-7" target="DeoXBpSrbxVylzwap8dz-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeoXBpSrbxVylzwap8dz-7" value="输出配准成功时的结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DeoXBpSrbxVylzwap8dz-7" value="输出配准成功时的结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -53,8 +53,8 @@
         <mxCell id="DeoXBpSrbxVylzwap8dz-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-13" target="DeoXBpSrbxVylzwap8dz-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeoXBpSrbxVylzwap8dz-13" value="开始" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="30" width="120" height="40" as="geometry" />
+        <mxCell id="DeoXBpSrbxVylzwap8dz-13" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
