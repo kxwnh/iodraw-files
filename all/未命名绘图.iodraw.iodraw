@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="能否为ICP&lt;div&gt;算&lt;span style=&quot;background-color: initial;&quot;&gt;法&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;提供良好的初&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;始&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;变换?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280" y="290" width="120" height="100" as="geometry" />
+          <mxGeometry x="590" y="90" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-0" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry" />
