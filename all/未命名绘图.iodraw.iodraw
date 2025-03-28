@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-0" value="&lt;p&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;输入健侧骨镜像&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;模型&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;和断&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;骨&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;模型点云&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="257.5" y="110" width="165" height="60" as="geometry" />
+          <mxGeometry x="273.75" y="110" width="132.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
