@@ -92,8 +92,8 @@
         <mxCell id="DeoXBpSrbxVylzwap8dz-32" value="查找对应的候选点对" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="340" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DeoXBpSrbxVylzwap8dz-40" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="599" y="325" width="120" height="60" as="geometry" />
+        <mxCell id="DeoXBpSrbxVylzwap8dz-40" value="根据投票策略，选取票数较多的点对，组成候选位姿集合C" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="325" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
