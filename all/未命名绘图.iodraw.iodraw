@@ -82,6 +82,9 @@
         <mxCell id="DeoXBpSrbxVylzwap8dz-53" value="ICP算法精配准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="404" y="453.25" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-58" target="DeoXBpSrbxVylzwap8dz-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-58" value="&lt;div&gt;待配准&lt;span style=&quot;background-color: initial;&quot;&gt;点云&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="630" width="110" height="50" as="geometry" />
         </mxCell>
@@ -101,7 +104,7 @@
           <mxGeometry x="290" y="715" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-64" value="配准完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="730" width="110" height="55" as="geometry" />
+          <mxGeometry x="140" y="730" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
