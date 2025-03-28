@@ -16,18 +16,6 @@
             <mxPoint x="340" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="460" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="650" y="40" />
-              <mxPoint x="460" y="40" />
-              <mxPoint x="460" y="240" />
-              <mxPoint x="510" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="能否为ICP&lt;div&gt;算&lt;span style=&quot;background-color: initial;&quot;&gt;法&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;提供良好的初&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;始&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;变换?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="90" width="120" height="100" as="geometry" />
         </mxCell>
