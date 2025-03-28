@@ -20,8 +20,8 @@
             <mxPoint as="offset" />
             <mxPoint x="460" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="320" />
-              <mxPoint x="420" y="240" />
+              <mxPoint x="460" y="340" />
+              <mxPoint x="460" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
