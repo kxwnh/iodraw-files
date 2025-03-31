@@ -129,7 +129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-63" value="是否得到预设阈值" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="293" y="715" width="83" height="109" as="geometry" />
+          <mxGeometry x="293" y="715" width="109" height="109" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-64" value="配准完成" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="744.5" width="110" height="50" as="geometry" />
