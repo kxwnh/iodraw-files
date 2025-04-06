@@ -134,8 +134,14 @@
         <mxCell id="DeoXBpSrbxVylzwap8dz-64" value="配准完成" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="744.5" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-0" target="52u6lXHuBu6QwCEyjrP9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-0" value="复位变换矩阵" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="18" y="948" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="218" y="948" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
