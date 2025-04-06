@@ -146,6 +146,9 @@
         <mxCell id="52u6lXHuBu6QwCEyjrP9-1" value="复位参数计算" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="948" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-3" target="52u6lXHuBu6QwCEyjrP9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-3" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;路径Γ的初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="333" y="948" width="120" height="60" as="geometry" />
         </mxCell>
@@ -169,20 +172,11 @@
             <mxPoint x="-1" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-15" target="52u6lXHuBu6QwCEyjrP9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-15" value="调用Opcode&lt;span style=&quot;background-color: initial;&quot;&gt;库&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;进行碰撞检测&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="498" y="1054" width="94" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="52u6lXHuBu6QwCEyjrP9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.175;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-15" target="52u6lXHuBu6QwCEyjrP9-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="545" y="1005" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="52u6lXHuBu6QwCEyjrP9-20" value="碰撞" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="52u6lXHuBu6QwCEyjrP9-19">
-          <mxGeometry x="-0.0699" relative="1" as="geometry">
-            <mxPoint x="-54" y="5" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-21" target="52u6lXHuBu6QwCEyjrP9-29">
           <mxGeometry relative="1" as="geometry" />
