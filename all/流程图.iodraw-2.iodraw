@@ -162,13 +162,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-7" value="最近邻搜索" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="618" y="1088" width="120" height="60" as="geometry" />
+          <mxGeometry x="636" y="1088" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-9" value="调用Opcode库进行碰撞检测" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="418" y="1088" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-11" target="52u6lXHuBu6QwCEyjrP9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="948" width="120" height="60" as="geometry" />
+          <mxGeometry x="485" y="948" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
