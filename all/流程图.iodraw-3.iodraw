@@ -241,7 +241,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-2" value="断骨配准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="269" y="1469" width="120" height="60" as="geometry" />
+          <mxGeometry x="273" y="1462" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-3" target="EbsEuRfam55zL6L1H0A7-2">
           <mxGeometry relative="1" as="geometry">
