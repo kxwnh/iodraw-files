@@ -226,8 +226,8 @@
         <mxCell id="EbsEuRfam55zL6L1H0A7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-1" target="EbsEuRfam55zL6L1H0A7-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="187" y="1383" />
-              <mxPoint x="187" y="1346" />
+              <mxPoint x="182" y="1383" />
+              <mxPoint x="182" y="1346" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -289,7 +289,7 @@
           <mxGeometry x="179" y="1325" width="43" height="26" as="geometry" />
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-25" value="ICP精配准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="152" y="1465" width="74" height="26" as="geometry" />
+          <mxGeometry x="156" y="1467" width="74" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
