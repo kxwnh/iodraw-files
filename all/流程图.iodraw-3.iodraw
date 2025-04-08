@@ -235,6 +235,9 @@
         <mxCell id="EbsEuRfam55zL6L1H0A7-2" value="断骨配准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="222" y="1439" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-3" target="EbsEuRfam55zL6L1H0A7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-3" value="&lt;p&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;输入&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;断&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;骨&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;模型点云&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="16" y="1439" width="132.5" height="60" as="geometry" />
         </mxCell>
