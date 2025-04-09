@@ -263,10 +263,15 @@
           <mxGeometry x="16" y="1439" width="132.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-7" target="EbsEuRfam55zL6L1H0A7-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="1346" />
+              <mxPoint x="525" y="1415" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-7" value="远近端断骨的局部坐标系的建立" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="1316" width="120" height="60" as="geometry" />
+          <mxGeometry x="386" y="1316" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-9" target="EbsEuRfam55zL6L1H0A7-12" edge="1">
           <mxGeometry relative="1" as="geometry">
