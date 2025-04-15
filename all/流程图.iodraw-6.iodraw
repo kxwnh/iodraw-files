@@ -1,0 +1,310 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1426" dy="789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="DeoXBpSrbxVylzwap8dz-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="DeoXBpSrbxVylzwap8dz-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="PPF算法粗配准" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="180" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-0" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-0" value="&lt;p&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;输入健侧骨镜像&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;模&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;型&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;和断&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;骨&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;模型点云&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="110" width="132.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-4" target="DeoXBpSrbxVylzwap8dz-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-4" value="ICP算法精配准" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="346" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-7" value="输出配准成功时的结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="513" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-22" target="DeoXBpSrbxVylzwap8dz-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-22" value="场景模型点云P" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-23" target="DeoXBpSrbxVylzwap8dz-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-23" value="目标模型点云Q" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="387.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-24" target="DeoXBpSrbxVylzwap8dz-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-24" value="采样获得点云集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="277.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-25" target="DeoXBpSrbxVylzwap8dz-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-25" value="采样获得点云集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="395" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-28" target="DeoXBpSrbxVylzwap8dz-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-28" value="计算点对特征构建哈希表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="275" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-29" target="DeoXBpSrbxVylzwap8dz-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-29" value="计算点对特征获取哈希表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="392.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-32" target="DeoXBpSrbxVylzwap8dz-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-32" value="查找对应的候选点对" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="414" y="340" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-40" target="DeoXBpSrbxVylzwap8dz-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-40" value="根据投票策略，选取票数较多的点对，组成候选位姿集合C" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="550" y="327.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-42" target="DeoXBpSrbxVylzwap8dz-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-42" value="采用聚类策略，得到正确的候选位姿" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="555" y="457" width="110" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-53" value="ICP算法精配准" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="404" y="453.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-58" target="DeoXBpSrbxVylzwap8dz-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-58" value="&lt;div&gt;待配准&lt;span style=&quot;background-color: initial;&quot;&gt;点云：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;源点云集&lt;/div&gt;&lt;div&gt;目标点云集&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="630" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-59" target="DeoXBpSrbxVylzwap8dz-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-59" value="点云初始化：&lt;div&gt;最大迭代次数&lt;/div&gt;&lt;div&gt;或收敛阈值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="630" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-60" target="DeoXBpSrbxVylzwap8dz-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-60" value="搜索最近点" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="630" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-61" target="DeoXBpSrbxVylzwap8dz-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-61" value="计算最优刚体变换" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-62" target="DeoXBpSrbxVylzwap8dz-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-62" value="点云坐标变换" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="744.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-63" target="DeoXBpSrbxVylzwap8dz-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-73" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DeoXBpSrbxVylzwap8dz-70" vertex="1" connectable="0">
+          <mxGeometry x="0.0155" y="-2" relative="1" as="geometry">
+            <mxPoint x="3" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-63" target="DeoXBpSrbxVylzwap8dz-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-72" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DeoXBpSrbxVylzwap8dz-71" vertex="1" connectable="0">
+          <mxGeometry x="0.4296" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-63" value="是否得到预设阈值" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="715" width="109" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="DeoXBpSrbxVylzwap8dz-64" value="配准完成" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="744.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-0" target="52u6lXHuBu6QwCEyjrP9-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-0" value="复位变换矩阵" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="18" y="948" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-1" target="52u6lXHuBu6QwCEyjrP9-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-1" value="复位参数计算" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="948" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-3" target="52u6lXHuBu6QwCEyjrP9-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-3" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;路径Γ的初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="333" y="948" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-5" target="52u6lXHuBu6QwCEyjrP9-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-5" value="随机采样" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="496" y="948" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-7" target="52u6lXHuBu6QwCEyjrP9-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-7" value="最近邻搜索" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="636" y="1074" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-15" target="52u6lXHuBu6QwCEyjrP9-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-24" value="无碰撞" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="52u6lXHuBu6QwCEyjrP9-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.2195" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-15" target="52u6lXHuBu6QwCEyjrP9-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-37" value="碰撞" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="52u6lXHuBu6QwCEyjrP9-36" vertex="1" connectable="0">
+          <mxGeometry x="0.2609" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-15" value="调用Opcode&lt;span style=&quot;background-color: initial;&quot;&gt;库&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;进行碰撞检测&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="509" y="1054" width="94" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-21" target="52u6lXHuBu6QwCEyjrP9-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="52u6lXHuBu6QwCEyjrP9-30" vertex="1" connectable="0">
+          <mxGeometry x="-0.521" y="-3" relative="1" as="geometry">
+            <mxPoint x="-8" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="1008" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="237" y="1037" />
+              <mxPoint x="515" y="1037" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-32" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="52u6lXHuBu6QwCEyjrP9-31" vertex="1" connectable="0">
+          <mxGeometry x="-0.0588" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-21" value="是否拓展&lt;div&gt;到&lt;span style=&quot;background-color: initial;&quot;&gt;目&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;标区域或&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;达到&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;预设的最大&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;迭代次数&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="188" y="1053" width="98" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-22" target="52u6lXHuBu6QwCEyjrP9-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-22" value="更新路径Γ，记录生成的节点和边" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="319" y="1074" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52u6lXHuBu6QwCEyjrP9-29" value="结束规划" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="26.25" y="1074" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-0" target="EbsEuRfam55zL6L1H0A7-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-0" value="&lt;p&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;健侧骨镜像&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;模&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;型&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;坐标系的初步建立&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="222" y="1316" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-1" target="EbsEuRfam55zL6L1H0A7-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="182" y="1372" />
+              <mxPoint x="182" y="1346" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-1" target="EbsEuRfam55zL6L1H0A7-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="162" y="1383" />
+              <mxPoint x="162" y="1469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-1" value="&lt;p&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;输入健侧骨镜像&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;模&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;型点云&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="18" y="1353" width="132.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-2" target="EbsEuRfam55zL6L1H0A7-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qto-rZN65OsTSVj3eIpF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-2" target="EbsEuRfam55zL6L1H0A7-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="364" y="1457" />
+              <mxPoint x="364" y="1346" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-2" value="断骨与健侧骨镜像模型配准" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="230" y="1439" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-3" target="EbsEuRfam55zL6L1H0A7-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-24" value="PPF粗配准" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EbsEuRfam55zL6L1H0A7-21" vertex="1" connectable="0">
+          <mxGeometry x="0.0419" y="-1" relative="1" as="geometry">
+            <mxPoint x="7" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-3" value="&lt;p&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;输入&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;断&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;骨&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;模型点云&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="16" y="1439" width="132.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-7" target="EbsEuRfam55zL6L1H0A7-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="1346" />
+              <mxPoint x="525" y="1415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-7" value="远近端断骨的局部坐标系的建立" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="386" y="1316" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-9" target="EbsEuRfam55zL6L1H0A7-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="526" y="1469" />
+              <mxPoint x="526" y="1415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-9" value="获得&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;远近端断骨与健侧骨镜像模型的变换矩阵&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="383" y="1439" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-12" target="EbsEuRfam55zL6L1H0A7-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-12" value="&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;远端断骨局部坐标系相对于近端断骨局部坐标系的姿态矩阵&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="553" y="1385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-16" value="&lt;span style=&quot;line-height: 150%; font-family: 宋体;&quot;&gt;远端断骨复位变换矩阵&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="701" y="1385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-19" value="PCA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="179" y="1324" width="43" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EbsEuRfam55zL6L1H0A7-25" value="ICP精配准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="156" y="1467" width="74" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
