@@ -34,7 +34,7 @@
         <mxCell id="DeoXBpSrbxVylzwap8dz-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-23" target="DeoXBpSrbxVylzwap8dz-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeoXBpSrbxVylzwap8dz-23" value="目标模型点云Q" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="DeoXBpSrbxVylzwap8dz-23" value="目标模型" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="387.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-24" target="DeoXBpSrbxVylzwap8dz-28" edge="1">
