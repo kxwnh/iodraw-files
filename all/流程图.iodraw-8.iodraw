@@ -115,7 +115,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-62" value="点云坐标变换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="430" y="744.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="450" y="749.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-63" target="DeoXBpSrbxVylzwap8dz-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -134,10 +134,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-63" value="是否得到预设阈值" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280" y="715" width="109" height="109" as="geometry" />
+          <mxGeometry x="290.5" y="720" width="109" height="109" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-64" value="配准完成" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="744.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="128.5" y="749.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-0" target="52u6lXHuBu6QwCEyjrP9-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
