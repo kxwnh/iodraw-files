@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-63" value="是否得到预设阈值" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="296.5" y="720" width="109" height="109" as="geometry" />
+          <mxGeometry x="301.25" y="726" width="99.5" height="104" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-64" value="配准完成" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="128.5" y="749.5" width="110" height="50" as="geometry" />
