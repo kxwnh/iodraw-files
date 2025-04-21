@@ -117,7 +117,7 @@
         <mxCell id="DeoXBpSrbxVylzwap8dz-62" value="点云坐标变换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="446" y="741" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DeoXBpSrbxVylzwap8dz-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-63" target="DeoXBpSrbxVylzwap8dz-64" edge="1">
+        <mxCell id="DeoXBpSrbxVylzwap8dz-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-63" target="DeoXBpSrbxVylzwap8dz-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-73" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="DeoXBpSrbxVylzwap8dz-70" vertex="1" connectable="0">
@@ -137,7 +137,7 @@
           <mxGeometry x="301.25" y="714" width="99.5" height="104" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-64" value="配准完成" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="128.5" y="749.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="128.5" y="741" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-0" target="52u6lXHuBu6QwCEyjrP9-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
