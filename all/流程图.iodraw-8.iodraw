@@ -71,13 +71,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-40" value="根据投票策略，选取票数较多的点对，组成候选位姿集合C" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="578" y="302.5" width="194" height="55" as="geometry" />
+          <mxGeometry x="580" y="293.25" width="194" height="73.5" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-42" target="DeoXBpSrbxVylzwap8dz-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-42" value="采用聚类策略，得到正确的候选位姿" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="605" y="430.75" width="110" height="52.5" as="geometry" />
+          <mxGeometry x="622" y="430.75" width="110" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-53" value="ICP算法精配准" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="427" width="120" height="60" as="geometry" />
