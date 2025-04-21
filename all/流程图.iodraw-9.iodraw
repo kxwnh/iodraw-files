@@ -157,14 +157,8 @@
         <mxCell id="52u6lXHuBu6QwCEyjrP9-3" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 20px;&quot;&gt;路径Γ的初始化&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="333" y="948" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52u6lXHuBu6QwCEyjrP9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-5" target="52u6lXHuBu6QwCEyjrP9-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-5" value="随机采样" style="whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="496" y="948" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="52u6lXHuBu6QwCEyjrP9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-7" target="52u6lXHuBu6QwCEyjrP9-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-7" value="最近邻搜索" style="whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="654" y="993.75" width="120" height="60" as="geometry" />
