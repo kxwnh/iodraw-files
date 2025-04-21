@@ -164,7 +164,11 @@
           <mxGeometry x="496" y="948" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2EHStXw4c7hyHKlmgh7Z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-7" target="52u6lXHuBu6QwCEyjrP9-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="696" y="1113" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-7" value="最近邻搜索" style="whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="636" y="1004" width="120" height="60" as="geometry" />
