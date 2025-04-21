@@ -306,8 +306,8 @@
         <mxCell id="EbsEuRfam55zL6L1H0A7-19" value="PCA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="158.5" y="1308" width="53" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="EbsEuRfam55zL6L1H0A7-25" value="ICP精配准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="135" y="1483" width="111" height="36" as="geometry" />
+        <mxCell id="EbsEuRfam55zL6L1H0A7-25" value="ICP精配准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="145" y="1487" width="93" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
