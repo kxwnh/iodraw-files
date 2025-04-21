@@ -49,6 +49,9 @@
         <mxCell id="DeoXBpSrbxVylzwap8dz-25" value="采样获得点云集Q" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="107" y="387.75" width="106.5" height="49.12" as="geometry" />
         </mxCell>
+        <mxCell id="mwunmre8Lf_L8hW_gP2J-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-28" target="DeoXBpSrbxVylzwap8dz-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-28" value="计算点对特征获取哈希值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="247.5" y="260.87" width="130" height="67.25" as="geometry" />
         </mxCell>
