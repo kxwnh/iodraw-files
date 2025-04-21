@@ -281,7 +281,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-7" value="远近端断骨的局部坐标系的建立" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="422.5" y="1316" width="135" height="60" as="geometry" />
+          <mxGeometry x="422.5" y="1309" width="135" height="67" as="geometry" />
         </mxCell>
         <mxCell id="mwunmre8Lf_L8hW_gP2J-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacing=2;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-9" target="EbsEuRfam55zL6L1H0A7-12">
           <mxGeometry relative="1" as="geometry">
