@@ -296,6 +296,9 @@
         <mxCell id="EbsEuRfam55zL6L1H0A7-25" value="ICP精配准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="144" y="1483" width="88" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mwunmre8Lf_L8hW_gP2J-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.105;entryY=0.482;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-9" target="EbsEuRfam55zL6L1H0A7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
