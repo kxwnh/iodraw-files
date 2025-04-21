@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-25" value="采样获得点云集Q" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="107" y="390.12" width="106.5" height="45" as="geometry" />
+          <mxGeometry x="107" y="386" width="106.5" height="49.12" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-28" target="DeoXBpSrbxVylzwap8dz-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-32" value="查找对应的候选点对" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="315" width="110" height="53" as="geometry" />
+          <mxGeometry x="436" y="303.5" width="110" height="53" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-40" target="DeoXBpSrbxVylzwap8dz-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
