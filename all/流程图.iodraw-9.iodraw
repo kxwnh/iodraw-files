@@ -200,8 +200,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="515" y="1008" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="237" y="1037" />
-              <mxPoint x="515" y="1037" />
+              <mxPoint x="176" y="1020" />
+              <mxPoint x="515" y="1020" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -217,7 +217,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-22" value="更新路径Γ，记录生成的节点和边" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280.75" y="1064.5" width="120" height="73" as="geometry" />
+          <mxGeometry x="284" y="1050.75" width="120" height="73" as="geometry" />
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-29" value="结束规划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-56" y="1057.25" width="120" height="60" as="geometry" />
