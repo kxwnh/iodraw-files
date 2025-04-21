@@ -279,7 +279,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-9" value="获得&lt;span style=&quot;line-height: 150%; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Helvetica&quot;&gt;远近端断骨与健侧骨镜像模型的变换矩阵&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="383" y="1439" width="120" height="60" as="geometry" />
+          <mxGeometry x="401" y="1439" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-12" target="EbsEuRfam55zL6L1H0A7-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
