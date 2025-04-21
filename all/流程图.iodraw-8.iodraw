@@ -65,13 +65,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-32" value="查找对应的候选点对" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="436" y="303.5" width="110" height="53" as="geometry" />
+          <mxGeometry x="436" y="324.25" width="110" height="53" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-40" target="DeoXBpSrbxVylzwap8dz-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-40" value="根据投票策略，选取票数较多的点对，组成候选位姿集合C" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="580" y="293.25" width="194" height="73.5" as="geometry" />
+          <mxGeometry x="580" y="314" width="194" height="73.5" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-42" target="DeoXBpSrbxVylzwap8dz-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
