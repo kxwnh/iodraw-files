@@ -29,19 +29,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-22" value="场景模型" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-8.75" y="270" width="110" height="50" as="geometry" />
+          <mxGeometry x="-26" y="269" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-23" target="DeoXBpSrbxVylzwap8dz-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-23" value="目标模型" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="387.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="-26" y="387.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-24" target="DeoXBpSrbxVylzwap8dz-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-24" value="采样获得点云集P" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="127" y="270" width="106" height="49" as="geometry" />
+          <mxGeometry x="107.5" y="270" width="106" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-25" target="DeoXBpSrbxVylzwap8dz-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-28" value="计算点对特征获取哈希值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="266" y="258" width="120" height="67.25" as="geometry" />
+          <mxGeometry x="247.5" y="260.87" width="130" height="67.25" as="geometry" />
         </mxCell>
         <mxCell id="DeoXBpSrbxVylzwap8dz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DeoXBpSrbxVylzwap8dz-29" target="DeoXBpSrbxVylzwap8dz-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
