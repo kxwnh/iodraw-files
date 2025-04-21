@@ -149,7 +149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-1" value="复位参数计算" style="whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="948" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="948" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52u6lXHuBu6QwCEyjrP9-3" target="52u6lXHuBu6QwCEyjrP9-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
