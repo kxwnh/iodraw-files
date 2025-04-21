@@ -264,7 +264,7 @@
           <mxGeometry x="832" y="1384" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-19" value="PCA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="161" y="1322" width="49" height="30" as="geometry" />
+          <mxGeometry x="167" y="1305" width="49" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-25" value="ICP精配准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="142" y="1467" width="88" height="30" as="geometry" />
