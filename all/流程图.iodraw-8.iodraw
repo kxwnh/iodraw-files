@@ -244,7 +244,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-1" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;输入健侧骨镜像&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;模&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: mE__puCfGyaZlHGyj-oa;&quot;&gt;型点云&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-10" y="1315" width="161" height="60" as="geometry" />
+          <mxGeometry x="-10" y="1303" width="161" height="72" as="geometry" />
         </mxCell>
         <mxCell id="EbsEuRfam55zL6L1H0A7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;spacing=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EbsEuRfam55zL6L1H0A7-2" target="EbsEuRfam55zL6L1H0A7-9" edge="1">
           <mxGeometry relative="1" as="geometry">
