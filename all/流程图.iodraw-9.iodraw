@@ -186,7 +186,7 @@
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-37" value="碰撞" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="52u6lXHuBu6QwCEyjrP9-36" vertex="1" connectable="0">
           <mxGeometry x="0.2609" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="52u6lXHuBu6QwCEyjrP9-15" value="调用&lt;div&gt;Opcode&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;库&lt;/span&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;进行碰撞&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;检测&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
